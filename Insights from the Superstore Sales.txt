@@ -1,0 +1,13 @@
+Insights from the Superstore Sales Performance Dashboard:
+
+1.  The highest monthly sales occurred in [DECEMBER 2017 with 95,739.12] indicating a seasonal peak, possibly due to year-end promotions or holiday shopping.
+
+2.  The West region consistently led in total sales across the time period, outperforming other regions significantly.
+
+3.  Technology emerged as the top-performing category, contributing around 36.5% of the overall sales, followed by  Furniture and Office Supplies.
+
+4. Among sub-categories, Phones, Chairs, and Storage were the top 3 contributors to sales, with Phones being the highest.
+
+5. California, New York, and Texas are the states with the most sales volume, highlighting major market hotspots.
+
+6. Sales by category and region show that strategic focus on technology products in the West and East regions could further boost profit margins.
